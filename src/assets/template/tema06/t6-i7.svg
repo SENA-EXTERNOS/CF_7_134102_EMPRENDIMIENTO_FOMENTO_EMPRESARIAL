@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610.391" height="174" viewBox="0 0 610.391 174">
+  <g id="Grupo_153083" data-name="Grupo 153083" transform="translate(-494.609 -3698.739)">
+    <rect id="Rectángulo_4911" data-name="Rectángulo 4911" width="555.391" height="174" rx="21" transform="translate(549.609 3698.739)" fill="#e7eaf8"/>
+    <g id="Elipse_16911" data-name="Elipse 16911" transform="translate(494.609 3732.739)" fill="#fff" stroke="#6677d6" stroke-width="4">
+      <circle cx="53" cy="53" r="53" stroke="none"/>
+      <circle cx="53" cy="53" r="51" fill="none"/>
+    </g>
+    <g id="Grupo_152463" data-name="Grupo 152463" transform="translate(341.055 -514.386)">
+      <g id="Rectángulo_44845" data-name="Rectángulo 44845" transform="translate(314.555 4310)" fill="#fff" stroke="#4e2e8e" stroke-width="2">
+        <rect width="336" height="47" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="334" height="45" rx="9" fill="none"/>
+      </g>
+      <text id="Valor_de_hora_diaria_valor_salario_30_8." data-name="Valor de hora diaria = valor salario / 30 / 8." transform="translate(314.737 4321.739)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-152.852" y="17">Valor de hora diaria = valor salario / 30 / 8.</tspan></text>
+    </g>
+    <text id="El_valor_de_la_hora_diaria_se_obtiene_del_valor_del_salario_ordinario." data-name="El valor de la hora diaria se obtiene del valor del salario ordinario." transform="translate(629.347 3728.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">El valor de la hora diaria se obtiene del valor del salario </tspan><tspan x="0" y="39">ordinario.</tspan></text>
+    <g id="reloj" transform="translate(511.194 3749.324)">
+      <g id="Grupo_152817" data-name="Grupo 152817" transform="translate(0)">
+        <g id="Grupo_152814" data-name="Grupo 152814" transform="translate(1.138 1.138)">
+          <circle id="Elipse_20568" data-name="Elipse 20568" cx="35.278" cy="35.278" r="35.278" transform="translate(0)" fill="#c6412a"/>
+          <path id="Trazado_210838" data-name="Trazado 210838" d="M37.678,108.1a35.276,35.276,0,0,1-35.252-34c-.015.425-.026.851-.026,1.28a35.278,35.278,0,0,0,70.555,0c0-.429-.01-.855-.026-1.28A35.276,35.276,0,0,1,37.678,108.1Z" transform="translate(-2.4 -40.103)" fill="#c6412a"/>
+          <circle id="Elipse_20569" data-name="Elipse 20569" cx="29.437" cy="29.437" r="29.437" transform="translate(5.84 5.84)" fill="#e4eef9"/>
+          <path id="Trazado_210839" data-name="Trazado 210839" d="M44.154,102.257A29.437,29.437,0,0,1,14.747,74.1c-.018.425-.029.851-.029,1.28a29.437,29.437,0,0,0,58.874,0c0-.429-.011-.856-.029-1.28A29.436,29.436,0,0,1,44.154,102.257Z" transform="translate(-8.877 -40.103)" fill="#d5e0f2"/>
+          <path id="Trazado_210840" data-name="Trazado 210840" d="M88.573,54.336a2.134,2.134,0,0,0-3.018.021l-6.7,6.794a3.647,3.647,0,0,1,2.669,3.371l7.071-7.169A2.134,2.134,0,0,0,88.573,54.336Z" transform="translate(-42.603 -29.387)" fill="#3d4780"/>
+          <path id="Trazado_210841" data-name="Trazado 210841" d="M53.271,59.392a3.647,3.647,0,0,1,2.423-3.435L42.542,44.236A2.134,2.134,0,0,0,39.7,47.422L53.274,59.516C53.273,59.475,53.271,59.434,53.271,59.392Z" transform="translate(-21.64 -24.115)" fill="#3d4780"/>
+          <path id="Trazado_210852" data-name="Trazado 210852" d="M3.646,0A3.646,3.646,0,1,1,0,3.646,3.646,3.646,0,0,1,3.646,0Z" transform="translate(31.631 31.631)" fill="#c6412a"/>
+          <path id="Trazado_210844" data-name="Trazado 210844" d="M72.756,76.466A3.647,3.647,0,0,1,69.342,74.1a3.646,3.646,0,1,0,6.829,0A3.647,3.647,0,0,1,72.756,76.466Z" transform="translate(-37.479 -40.103)" fill="#772719"/>
+        </g>
+        <g id="Grupo_152816" data-name="Grupo 152816" transform="translate(0)">
+          <g id="Grupo_152815" data-name="Grupo 152815">
+            <path id="Trazado_210845" data-name="Trazado 210845" d="M62.165,10.666A36.416,36.416,0,0,0,9.944,61.423,1.069,1.069,0,0,0,11.5,59.955,34.256,34.256,0,1,1,14.532,62.8a1.069,1.069,0,0,0-1.366,1.645,36.416,36.416,0,0,0,49-53.779Z" transform="translate(0)"/>
+            <path id="Trazado_210846" data-name="Trazado 210846" d="M63.812,22.073a1.069,1.069,0,0,0-.052-1.511,30.544,30.544,0,1,0,3.02,3.259,1.069,1.069,0,1,0-1.669,1.336,28.118,28.118,0,0,1,6.22,17.748,28.426,28.426,0,1,1-9.03-20.78A1.069,1.069,0,0,0,63.812,22.073Z" transform="translate(-6.49 -6.49)"/>
+            <path id="Trazado_210847" data-name="Trazado 210847" d="M76.683,24.737V21.426a1.069,1.069,0,0,0-2.138,0v3.311a1.069,1.069,0,0,0,2.138,0Z" transform="translate(-39.199 -10.705)"/>
+            <path id="Trazado_210848" data-name="Trazado 210848" d="M74.546,122.82v3.311a1.069,1.069,0,1,0,2.138,0V122.82a1.069,1.069,0,1,0-2.138,0Z" transform="translate(-39.199 -64.021)"/>
+            <path id="Trazado_210849" data-name="Trazado 210849" d="M126.131,76.683a1.069,1.069,0,1,0,0-2.138H122.82a1.069,1.069,0,1,0,0,2.138Z" transform="translate(-64.021 -39.199)"/>
+            <path id="Trazado_210850" data-name="Trazado 210850" d="M21.426,74.546a1.069,1.069,0,1,0,0,2.138h3.311a1.069,1.069,0,1,0,0-2.138Z" transform="translate(-10.705 -39.199)"/>
+            <path id="Trazado_210851" data-name="Trazado 210851" d="M70.145,71.713a1.069,1.069,0,0,0,1.375-1.637L59.9,60.318a4.685,4.685,0,0,0,.5-1.836L67.189,51.6a3.207,3.207,0,1,0-4.566-4.5l-6.311,6.4a4.714,4.714,0,0,0-1.567.054L42,42.195a3.207,3.207,0,1,0-4.267,4.788l6.167,5.5a1.069,1.069,0,1,0,1.422-1.6l-6.167-5.5a1.069,1.069,0,1,1,1.422-1.6L52.664,54.56a4.747,4.747,0,0,0-1.29,1.714l-2.858-2.547a1.069,1.069,0,1,0-1.422,1.6l3.923,3.5a4.719,4.719,0,0,0,7.511,3.136Zm-6-23.111a1.069,1.069,0,1,1,1.522,1.5l-5.8,5.876a4.756,4.756,0,0,0-1.4-1.62ZM55.694,60.763a2.585,2.585,0,1,1,2.585-2.585A2.587,2.587,0,0,1,55.694,60.763Z" transform="translate(-19.279 -21.763)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

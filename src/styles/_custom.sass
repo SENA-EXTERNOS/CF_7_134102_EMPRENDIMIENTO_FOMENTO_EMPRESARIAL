@@ -1,14 +1,22 @@
 .banner-principal-decorativo
-  &-1
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 20%
+    right: 4%
+    z-index: 2
   &-2
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 12%
+    left: 2%
+    z-index: 2
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 11%
+    left: 10%
+    z-index: 2
 
 
 @keyframes float1
@@ -17,3 +25,142 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__componente
+  h1
+    color: $color-acento-botones
+.banner-principal__descripcion
+  p 
+    color: white
+
+.bg-img
+  background-image:  url('../assets/template/ti-fondocard.png')
+  background-size: cover
+  background-position: center center
+  background-repeat: no-repeat
+
+.bg-cajon-acento-contenido
+  background-color: #F7E2DF
+  &::before
+    background-color: $color-acento-contenido
+
+.bg-cajon-secundario
+  background-color: #E4E0EE
+  &::before
+    background-color: $color-secundario
+
+.cac
+  color: $color-acento-contenido
+
+.card-t1
+  background: #D1D6F3
+  border-radius: 10px
+
+.bg-slider
+  background-color: #E7EAF8
+  .slyder-a__bullets__item
+    background-color: #B0A2CD
+  .slyder-a__bullets__item--active
+    background-color: $color-acento-contenido
+    border-color: $color-acento-contenido
+  .slyder-a__btn--atrs,.slyder-a__btn--sigt
+    background-color: $color-secundario
+
+.bg-color-primario
+  background-color: #8C99E0
+  &:hover 
+    background-color: $color-secundario
+    p,li,h3
+      color: white
+
+.bloque-texto-f__autor-right
+  text-align: right      
+
+.h-38
+  height: 38em !important
+
+.h-30
+  height: 30em !important
+
+.bg-secundary-acordeon
+  .acordeonA
+    background-color: #F6F6F6
+  .acordion__activo
+    background-color: #E4E0EE
+  .acordion__accion__btn--a
+    background-color: $color-secundario
+    i 
+      color: white 
+
+.bg-secundario
+  background-color: $color-secundario 
+  p
+    color: white  
+
+.bloque-texto-g__texto
+  .row
+    display: flex !important
+
+.bloque-modificado
+  .bloque-texto-g__img
+    background-position: left
+.tab-color-acento-contenido
+  .tabs-a__tab
+    font-size: 12px
+    background-color: #E8E8E8
+  .tabs-a__content-item--active
+    background-color: #E7EAF8
+    border-radius: 10px
+    
+    // Tarjeta icono suspendido B ----------------
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel2-tarjeta
+  height: 10em
+  border-radius: 20px
+.t-2-nivel3-tarjeta
+  margin-top: -3em
+
+.t-3-nivel1-tarjeta
+  height: 4em
+.t-3-nivel2-tarjeta
+  height: 22em
+  border-radius: 20px
+.t-3-nivel3-tarjeta
+  margin-top: -3em
+.tarjeta-color-st5
+  background-color: #F1F5AE
+.tarjeta--green
+  background-color: #FFFBC2      
+
+.fz-13
+  font-size: 13px
+
+.fz-15
+  font-size: 15px
+   
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-secundario
+    h4,p
+      color: white
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em  
