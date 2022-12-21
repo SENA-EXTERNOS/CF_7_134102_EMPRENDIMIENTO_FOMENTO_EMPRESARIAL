@@ -93,7 +93,7 @@
               img(src="@/assets/template/tema01/t1-i5.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3.text-center Contabilidad tributaria
-            p.mb-0.text-center Son aquellas herramientas que permiten plasmar, de manera anticipada, los recursos requeridos (financieros y no financieros) para el cumplimiento de las actividades; por consiguiente, de las estrategias y de los objetivos.
+            p.mb-0.text-center Rama de la contabilidad cuyo enfoque se concentra en la planeación y organización de los deberes fiscales que tiene la empresa o individuo, con la finalidad que cumpla, a cabalidad, sus compromisos estatales y evite sanciones por omisión, o equivocaciones en impuestos a su cargo.
 
     p.mb-5 En algún momento, todos somos usuarios de la información contable y, por lo general, podemos actuar como los tipos de usuarios que se observan a continuación:
 
@@ -339,9 +339,9 @@
 
     h4.mb-5 Requisitos de carácter tributario
 
-    p Para que una organización funcione de manera adecuada, es necesario conocer el marco jurídico que la regula; en materia contable, han sido cambios precisos y puntuales que se han venido presentando y esto implica la generación de información financiera y de aseguramiento de alta credibilidad, homogénea, veraz y útil.
+    //- p Para que una organización funcione de manera adecuada, es necesario conocer el marco jurídico que la regula; en materia contable, han sido cambios precisos y puntuales que se han venido presentando y esto implica la generación de información financiera y de aseguramiento de alta credibilidad, homogénea, veraz y útil.
 
-    p.mb-5 Las normas más importantes en la actualidad son:
+    //- p.mb-5 Las normas más importantes en la actualidad son:
 
     .row.justify-content-center.mb-5
       .col-lg-10

@@ -192,6 +192,29 @@ export default {
   ],
   glosario: [
     {
+      termino: 'Comerciante',
+      significado:
+        'persona que ejerce alguna de las actividades que se consideran mercantiles.',
+    },
+    {
+      termino: 'Costo histórico',
+      significado: 'es el valor de la transacción de una operación.',
+    },
+    {
+      termino: 'Contribuyente',
+      significado:
+        'se refiere a toda persona natural o jurídica llamada para cumplir ciertas obligaciones tributarias, por la realización del hecho generador establecido en la ley para el nacimiento del tributo.',
+    },
+    {
+      termino: 'Debe',
+      significado: 'registra el valor monetario al lado izquierdo.',
+    },
+    {
+      termino: 'Declarante',
+      significado:
+        'persona natural o jurídica que presenta una declaración tributaria.',
+    },
+    {
       termino: 'Empresa',
       significado:
         'ente económico dedicado a la compra y venta de bienes, conocidos como mercancías.',

@@ -61,7 +61,7 @@
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
-      | Documentos internos y externos
+      | Diligenciamiento
 
     p Los documentos internos son propios de manejo y uso de la organización; les permite llevar un control interno y son usados de manera frecuente, mientras que los documentos externos, son utilizados por la organización o por terceros.
 
@@ -456,10 +456,6 @@
             p Estos son expedidos a la orden de una persona específica o, en caso de transmitirse el documento, a favor de quien aparezca designado en este último registro.
           .tarjeta.clr-paleYellow.p-4(titulo='Títulos al portador')
             p En este tipo de título, a diferencia de los anteriores, la persona o entidad que lo porte es quien goza de los derechos que representa; la simple exhibición del título legitimará al portador y su tradición se producirá por la sola entrega.
-
-  
-
-    p.mb-5 Los títulos más empleados en las organizaciones son:
 
     .row.justify-content-center.mb-5
       .col-lg-10

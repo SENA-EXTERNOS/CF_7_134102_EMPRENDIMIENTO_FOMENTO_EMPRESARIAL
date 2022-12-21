@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Obligaciones tributarias de las empresas
+      h1 Informes contables y estados financieros
 
     p.mb-5 Un estado financiero es una declaración de lo que se cree que es cierto, expresado en términos de una unidad monetaria; por ejemplo, en pesos. Cuando los administradores preparan estados financieros, están describiendo, en términos financieros, ciertos atributos de las empresas que están representando, de una manera razonable.
 
@@ -86,6 +86,22 @@
         .row 
           .col-lg-7
             p Son aquellos que se elaboran y se presentan en un grupo empresarial, como si fuera una sola entidad. Los estados financieros consolidados que se deben preparar, elaborar y presentar, son:
+            ul.lista-ul--color
+              li 
+                i.fas.fa-check
+                | Estado de situación financiera consolidado.
+              li 
+                i.fas.fa-check
+                | Estado de resultados consolidado.
+              li 
+                i.fas.fa-check
+                | Estados de cambios en el patrimonio consolidado.  
+              li 
+                i.fas.fa-check
+                | Estado de flujo de efectivo consolidado.
+              li 
+                i.fas.fa-check
+                | Notas a los estados financieros consolidados.
           .col-lg-5
             figure(data-aos='zoom-in')
               img(
@@ -108,15 +124,20 @@
           .bloque-texto-g__texto.p-4
             p En la actualidad, las empresas apoyan el registro de sus operaciones contables en sistemas contables que, en muchos casos, son actualizados en línea, siendo algo muy conveniente para que cualquier usuario de la información contable, pueda acceder a ella sin importar el lugar donde se encuentre. 
 
-
-    p.mb-5 Gracias a la evolución tecnológica, tenemos acceso a múltiples herramientas que sirven para que la labor contable se manifieste completa y fidedigna; esto facilita que las organizaciones cuenten con información oportuna e inmediata, sea cual sea el momento en el que se requiera. 
+    p.mb-5 Conozca sobre el&nbsp;
+      i software&nbsp;
+      | contable como herramienta de gestión y organización del registro de los hechos económicos de la empresa. 
 
     .tarjeta.bg-slider.p-5.mb-5
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 ¿Qué es un software contable?
-            p Un software de contabilidad es un programa o aplicación informática que trata los datos contables de una empresa, mediante métodos sistemáticos (economipedia). En Colombia existen varios, pero el más reconocido es SIIGO. 
+            h4 ¿Qué es un&nbsp;
+              i software&nbsp;
+              | contable?
+            p Un&nbsp;
+              i software&nbsp;
+              | de contabilidad es un programa o aplicación informática que trata los datos contables de una empresa, mediante métodos sistemáticos (economipedia). En Colombia existen varios, pero el más reconocido es SIIGO. 
 
             p Este software contable permite que la información sea registrada de manera inmediata y tiene un alto nivel de confiabilidad en el riesgo de pérdida de información; muchos usuarios comentan aspectos positivos del mismo, indicando la simplicidad y facilidad de gestionar las tareas contables.
             

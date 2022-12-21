@@ -16,7 +16,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i1.svg")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme con Ia reglamentación del gobierno. Los libros podrán llevarse en archivos electrónicos, que garanticen, de forma ordenada, Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará, de acuerdo con Ia reglamentación que expida el Gobierno Nacional. (Código de Comercio, Art 56)  
+            p Estos hechos contables o transacciones, permiten clasificar y determinar la representación, y posterior definición del registro contable, para que esta clasificación se realice de manera oportuna; la entidad debe diseñar, con anterioridad, un manual de políticas contables y ajustarlo basado en la normativa vigente; para este caso, la NIC 8.  
 
     h3.mb-5
       i.fas.fa-square.cac.me-3

@@ -194,9 +194,9 @@
           .tarjeta.text-black.p-3.bg-secundario(x='38%', y='21%', numero='+') 
             p.mb-0 Está estipulado por el artículo 132 del CST. Está conformado por un valor salarial equivalente a 10 salarios mínimos, que constituye un 70 % del total de la remuneración.
           .tarjeta.text-black.p-3.bg-secundario(x='74%', y='21%', numero='+') 
-            p.mb-0 Toda retribución material diferente al dinero, que recibe el trabajador como parte de su remuneración salarial y contraprestación directa del servicio. Está estipulada por el artículo 129 del CST.
-          .tarjeta.text-black.p-3.bg-secundario(x='56%', y='65%', numero='+') 
             p.mb-0 Cuando el trabajador recibe pagos sujetos a la ejecución de determinados hechos, comisiones o bonificaciones.
+          .tarjeta.text-black.p-3.bg-secundario(x='56%', y='65%', numero='+') 
+            p.mb-0 Toda retribución material diferente al dinero, que recibe el trabajador como parte de su remuneracion salarial y contraprestación directa del servicio. Está estipulada por el artículo 129 del CST.
           .tarjeta.text-black.p-3.bg-secundario(x='91.5%', y='65%', numero='+') 
             p.mb-0 Establecido en el artículo 132 del CST, es una modalidad de salario variable, donde se paga un valor determinado, por una labor específica.
 
@@ -263,7 +263,9 @@
       i.fas.fa-square.cac.me-3
       | Prestaciones sociales
 
-    p.mb-5 Las prestaciones sociales son los pagos adicionales, aparte del salario, que el trabajador recibe en determinadas épocas del año, y que, a su vez, le representan beneficios; estas prestaciones son una remuneración obligatoria por parte del empleador, para los trabajadores que se encuentren vinculados a la empresa, por medio de un contrato de trabajo.
+    p Las prestaciones sociales son los pagos adicionales, aparte del salario, que el trabajador recibe en determinadas épocas del año, y que, a su vez, le representan beneficios; estas prestaciones son una remuneración obligatoria por parte del empleador, para los trabajadores que se encuentren vinculados a la empresa, por medio de un contrato de trabajo.
+
+    p.mb-5 A continuación, se mostrarán detalladamente, cada una de estas prestaciones, con sus respectivas fórmulas de liquidación.
 
     .row.justify-content-center.mb-5
       .col-lg-8
