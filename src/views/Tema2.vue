@@ -38,7 +38,7 @@
         .row
           .col-lg-6 
             a.anexo.mb-4.mb-lg-0(
-              href='https://en.wikipedia.org/wiki/Main_Page',
+              href='https://www.ctcp.gov.co/publicaciones-ctcp/compilaciones-normativas/anexo-6-del-dur-2420-de-2015-normas-sobre-sistema-/compilacion-anexo-6-a-diciembre-31-de-2020-normas',
               target='_blank'
             )
               .anexo__icono
@@ -49,7 +49,7 @@
                 | El anexo 6 del Decreto único reglamentario 2420.
           .col-lg-6 
             a.anexo.mb-4.mb-lg-0(
-              href='https://en.wikipedia.org/wiki/Main_Page',
+              href='https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ccb355bb-d8f6-48d2-8d9d-d44e924a8aed',
               target='_blank'
             )
               .anexo__icono

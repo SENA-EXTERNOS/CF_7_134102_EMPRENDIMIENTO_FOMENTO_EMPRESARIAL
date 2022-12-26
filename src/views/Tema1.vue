@@ -163,10 +163,7 @@
             h4 Clasificación de las empresas
             p.mb-0 Para ampliar la información, lo invitamos a ver el documento 
           .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-acento-botones(
-              href="#",
-              target='_blank'
-            )
+            a.boton.boton--b.color-acento-botones(:href="obtenerLink('/downloads/Clasificación de las empresas.pdf')", target='_blank')
               span Descargar
               i.fas.fa-file-download
 

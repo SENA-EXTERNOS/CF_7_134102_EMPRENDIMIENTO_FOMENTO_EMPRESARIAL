@@ -82,7 +82,7 @@
                 src='@/assets/template/tema05/t5-i3.png',
                 alt='Texto que describa la imagen'
               )
-      .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros consolidados')
+      .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros<br>consolidados')
         .row 
           .col-lg-7
             p Son aquellos que se elaboran y se presentan en un grupo empresarial, como si fuera una sola entidad. Los estados financieros consolidados que se deben preparar, elaborar y presentar, son:

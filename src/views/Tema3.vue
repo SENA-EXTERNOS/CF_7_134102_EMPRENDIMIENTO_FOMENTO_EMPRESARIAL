@@ -37,7 +37,7 @@
             p.mb-0 Para conocer qué es una cuenta, sus elementos, estructura, clases y dinámica, lo invitamos a ver el documento Qué es una cuenta. 
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
-              href="#",
+              :href="obtenerLink('/downloads/QUE ES UNA CUENTA.pdf')",
               target='_blank'
             )
               span Descargar
