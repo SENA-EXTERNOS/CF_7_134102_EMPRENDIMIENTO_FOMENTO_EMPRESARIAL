@@ -46,7 +46,7 @@
               :href="obtenerLink('/downloads/Tipos de impuesto.pdf')",
               target='_blank'
             )
-              span Descargar
+              span Ver documento 
               i.fas.fa-file-download     
 
 </template>

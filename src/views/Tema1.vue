@@ -67,7 +67,7 @@
       | Tipos de información contable
 
     p Desde la perspectiva del usuario de la contabilidad, se puede tener una necesidad específica, y otros usuarios pueden requerir de otro tipo de necesidades.
-    p.mb-5 Existen muchos tipos de información contable pero, en este apartado, se mencionan los principales. 
+    p.mb-5 Existen muchos tipos de información contable pero, en este apartado, se mencionan los principales: 
            
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -115,7 +115,7 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto Para todos los efectos, se entiende por empresa, toda unidad de explotación económica, realizada por persona natural o jurídica, en actividades agropecuarias, industriales, comerciales o de servicios, en el área rural o urbana.
           .bloque-texto-f__autor-right.mb-3
-            h3.mb-0 De acuerdo con la Ley 590 del año 2000, Art. 2
+            h3.mb-0 Ley 590 año 2000, Art. 2
 
 
     h3.mb-5
@@ -160,11 +160,10 @@
                 src='@/assets/template/tema01/t1-i8.svg',
               )
           .col-lg-8.col-6
-            h4 Clasificación de las empresas
-            p.mb-0 Para ampliar la información, lo invitamos a ver el documento 
+            p.mb-0 Amplíe sus conocimientos relacionados con la clasificación de las empresas; estudie con atención el documento #[b Clasificación de las empresas.]
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(:href="obtenerLink('/downloads/Clasificación de las empresas.pdf')", target='_blank')
-              span Descargar
+              span Ver documento
               i.fas.fa-file-download
 
     h3.mb-5
@@ -229,7 +228,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Matrícula mercantil
-            p Es el documento mediante el cual la organización demuestra su existencia y constitución legal; esto le permite gozar de protección del nombre comercial, hacer pública la condición de comerciante, evitar multas y sanciones de entidades de vigilancia y control, facilidad de obtención de créditos, contar con asesoría permanente por parte de la cámara de comercio a la cuál esta adscrita la empresa.                     
+            p Es el documento mediante el cual la organización demuestra su existencia y constitución legal; esto le permite gozar de la protección del nombre comercial, hacer pública la condición de comerciante, evitar multas y sanciones de entidades de vigilancia y control, facilidad de obtención de créditos y contar con asesoría permanente por parte de la cámara de comercio a la cual está adscrita la empresa.                   
           .col-md-6
             figure
               img(src='@/assets/template/tema01/t1-i12.svg', alt='Texto que describa la imagen')
@@ -271,7 +270,7 @@
               figure
                 img(src='@/assets/template/tema01/t1-i14.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Contractuales
+          h3.text-center Obligaciones contractuales
           p Para efectos de contratar personal en la organización y la relación laboral. 
           ul.lista-ul--color
               li 
@@ -294,7 +293,7 @@
               figure
                 img(src='@/assets/template/tema01/t1-i15.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Seguridad en el trabajo
+          h3.text-center Obligaciones de seguridad en el trabajo
           p Para efectos de convivencia, seguridad y salud en el trabajo.
           ul.lista-ul--color
               li 
@@ -408,14 +407,14 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.bg-img.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.bg-img
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/template/tema01/t1-i19.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p Teniendo en cuenta que la información contable satisface la necesidad de interés público y, en particular, de sus propietarios, se puede decir que los usuarios son todas aquellas personas que requieren de una información financiera comprensible, confiable y pertinente, que sirva de apoyo para la toma de decisiones y, a su vez, les permita tener mejores prácticas y una evolución a nivel internacional, de sus negocios.
 
-    p.mb-5 Entre quienes pueden requerir de la información contable encontramos: propietarios, funcionarios, empleados, inversionistas, y otras partes interesadas en mejorar la productividad y el desarrollo armónico de las actividades empresariales. 
+    p.mb-5 Entre quienes pueden requerir de la información contable encontramos: propietarios, funcionarios, empleados, inversionistas y otras partes interesadas en mejorar la productividad y el desarrollo armónico de las actividades empresariales.
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
@@ -438,8 +437,9 @@
       | Características cualitativas de la información contable
 
     p Cuando se habla de útil, se hace referencia a aquella información que va a proporcionar elementos significativos y enriquecedores a los usuarios de la información contable, para la toma de decisiones sobre la entidad que emite su información.
-
-    p.mb-5 Esta información contable se realiza a partir de registros y transacciones capturadas en el ejercicio de la actividad económica de la empresa; entre estas características encontramos:
+      br
+      br
+      |Esta información contable se realiza a partir de registros y transacciones capturadas en el ejercicio de la actividad económica de la empresa; entre estas características se encuentran:
 
 
     .row.d-flex.justify-content-center.mb-5
@@ -490,7 +490,7 @@
           .row
             .col-md-10.col-8.mb-md-0
               h3 Oportunidad
-              p.text-start La información presentada debe permitir que los usuarios de ella puedan tomar decisiones en cualquier momento, debido a que está actualizada y es pertinente.
+              p.text-start La información presentada debe permitir que los usuarios de la misma, puedan tomar decisiones en cualquier momento, debido a que está actualizada y es pertinente.
 
             .col-md-2.col-4
               figure(data-aos='zoom-in')

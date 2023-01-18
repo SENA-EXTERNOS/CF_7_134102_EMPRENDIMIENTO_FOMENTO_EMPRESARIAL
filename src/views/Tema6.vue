@@ -69,7 +69,7 @@
               | Suspensión o despido.
 
         .col-lg-4
-          figure(data-aos='zoom-in')
+          figure
             img(
               src='@/assets/template/tema06/t6-i2.png',
               alt='Texto que describa la imagen'
@@ -112,7 +112,7 @@
           p Es necesario dejar en claro que la empresa, la compañía u organización, no podrá retener ningún valor del salario de un empleado sin el consentimiento expreso del mismo, a menos que lo ordene un tribunal competente.
 
         .col-lg-4
-          figure(data-aos='zoom-in')
+          figure
             img(
               src='@/assets/template/tema06/t6-i3.png',
               alt='Texto que describa la imagen'
@@ -220,7 +220,7 @@
     p.mb-5 La liquidación del trabajo extra o suplementario, se llevará a cabo de acuerdo con las fórmulas presentadas a continuación:
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-12
         .row
           .col-lg-12.my-2
             .row.justify-content-center
@@ -486,7 +486,9 @@
     .row.justify-content-center.mb-5
         .col-lg-8.p-3
           .titulo-sexto.color-acento-contenido.mb-5
-            h5 Figura 1.
+            h5 Tabla 1
+            br
+            br
             | Obligaciones del empleador y del empleado
           figure
             img(

@@ -31,7 +31,7 @@
           .bloque-texto-f__autor-right.mb-3
             h3.mb-0 Anexo 6 del DUR 2420 de 2015 Normas sobre el sistema Documental, Título Tres, Artículo 6, 14 de diciembre de 2015.
 
-    p.mb-5 Para profundizar la normativa vigente, lo invitamos a revisar:
+    p.mb-5 Profundice en la normativa vigente, revisando en detalle:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -63,9 +63,10 @@
       i.fas.fa-square.cac.me-3
       | Diligenciamiento
 
-    p Los documentos internos son propios de manejo y uso de la organización; les permite llevar un control interno y son usados de manera frecuente, mientras que los documentos externos, son utilizados por la organización o por terceros.
-
-    p.mb-5 A continuación, conozca los más comunes.
+    p.mb-5 Los documentos internos son propios de manejo y uso de la organización; les permite llevar un control interno y son usados de manera frecuente, mientras que los documentos externos, son utilizados por la organización o por terceros.
+      br
+      br
+      |A continuación, conozca los más comunes:
 
     .row.d-flex.justify-content-center.mb-5
       .col-md-12
@@ -253,7 +254,7 @@
     p.mb-5 Para dar cumplimiento, las empresas deben registrar ante cámaras de comercio, por disposición del artículo 175 del Decreto Ley 019 de 2012:
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-10
         .row
           .col-lg-6
             figure

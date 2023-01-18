@@ -169,7 +169,7 @@ export default {
     {
       tema: 'Documentos contables',
       referencia:
-        'DIAN. (s.f.). <em>Documento soporte en adquisicioens efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente.',
+        'Dirección de Impuestos y Aduanas Nacionales (s.f.). <em>Documento soporte en adquisicioens efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente.</em>',
       tipo: 'PDF',
       link:
         'https://www.dian.gov.co/impuestos/Documents/Documento_soporte_en_adquisiciones_efectuadas.pdf',
@@ -177,7 +177,7 @@ export default {
     {
       tema: 'Documentos contables',
       referencia:
-        'Resolución 0167 de 2021. (DIAN). Por la cual se implementa y desarrolla en el sistema de facturación electrónica la funcionalidad del documento soporte en adquisiciones efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente, para su transmisión electrónica y se expide el anexo técnico del documento. Diciembre 30 de 2021.',
+        'Resolución 0167 de 2021. [Dirección de Impuestos y Aduanas Nacionales]. Por la cual se implementa y desarrolla en el sistema de facturación electrónica la funcionalidad del documento soporte en adquisiciones efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente, para su transmisión electrónica y se expide el anexo técnico del documento. Diciembre 30 de 2021.',
       tipo: 'PDF',
       link:
         'https://www.dian.gov.co/normatividad/Normatividad/Resoluci%C3%B3n%20000167%20de%2030-12-2021.pdf',
@@ -185,7 +185,7 @@ export default {
     {
       tema: 'Archivo y conservación de documentos',
       referencia:
-        'PROING – SA OFICIAL. (2017). <em>Organización y archivo de documentos – Gestión documental (video).',
+        'PROING – SA OFICIAL. (2017). <em>Organización y archivo de documentos – Gestión documental</em> (video).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=DGRZsfzGE9Y',
     },
@@ -301,31 +301,45 @@ export default {
   referencias: [
     {
       referencia:
-        'Decreto 2420 de 2015. (Presidencia de la República). Por medio de la cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones. Diciembre 14 de 2015. Economipedia. (s.f.). <em> Software de contabilidad. ',
+        'Decreto 2420 de 2015. [Presidencia de la República]. Por medio de la cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones. Diciembre 14 de 2015. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Economipedia (s.f.). Definición técnica. Software de contabilidad. ',
       link:
-        'https://economipedia.com/definiciones/software-de-contabilidad.html#:~:text=Un%20software%20de%20contabilidad%20es,una%20empresa%20o%20entidades%20similares',
+        'https://economipedia.com/definiciones/software-de-contabilidad.html#:~:text=Un%20software%20de%20contabilidad%20es,una%20empresa%20o%20entidades%20similares. ',
     },
     {
       referencia:
-        'Hernández, S. J. (2011). <em>Introducción a la administración</em> (5.a ed., Vol. 1). McGraw-Hill Interamericana. Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa. Julio 10 de 2000. DO. No. 44.078. Secretaría Senado. (1971). <em>Código de Comercio Decreto 410 de 1971. ',
+        'Hernández, S. (2011). Introducción a la administración. McGraw-Hill Interamericana.',
+      link: ' ',
+    },
+    {
+      referencia:
+        'Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa. Julio 10 de 2000. DO. No. 44.078',
+      link: ' ',
+    },
+    {
+      referencia:
+        'Decreto 2650 de 2008. [Ministerio de Defensa Nacional]. Por el cual se modifica la estructura de la Caja Promotora de Vivienda Militar y de Policía y se determinan las funciones de sus dependencias. Julio 18 de 2008.',
+      link: ' ',
+    },
+    {
+      referencia:
+        'Sistema de Información sobre Comercio Exterior (s.f.). Comisión de la Comunidad Andina. Decisión 486: <em>Régimen Común sobre Propiedad Industrial.</em> SICE OAS.',
+      link: 'http://www.sice.oas.org/trade/junac/decisiones/dec486s6.asp  ',
+    },
+    {
+      referencia:
+        'Luis Raúl Uribe Medina (2016). <em>Plan de cuentas para sistemas contables.</em> Docplayer.',
+      link: ' ',
+    },
+    {
+      referencia:
+        'Zapata, P. (2018). <em>Contabilidad General.</em> Alfaomega.',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/decreto_2650_2008.html',
-    },
-    {
-      referencia:
-        'Sistema de Información sobre Comercio Exterior. (s.f.). <em>Comisión de la Comunidad Andina. Decisión 486: Régimen Común sobre Propiedad Industrial. SICE OAS. ',
-      link: 'http://www.sice.oas.org/trade/junac/decisiones/dec486s6.asp',
-    },
-    {
-      referencia:
-        'Uribe Medina, L. R. (2016). <em>Plan de cuentas para sistemas contables.',
-      link: 'https://docplayer.es/33172203-Luis-raul-uribe-medina.html',
-    },
-    {
-      referencia:
-        'Zapata, P. (2018). <em>Contabilidad General.</em> (8ª Ed.). Alfaomega',
-      link:
-        'https://www.alphaeditorialcloud.com/reader/contabilidad-general?location=22',
+        'https://www.alphaeditorialcloud.com/reader/contabilidad-general?location=22 ',
     },
   ],
   creditos: {

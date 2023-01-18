@@ -40,7 +40,7 @@
               :href="obtenerLink('/downloads/QUE ES UNA CUENTA.pdf')",
               target='_blank'
             )
-              span Descargar
+              span Ver documento
               i.fas.fa-file-download 
 
     h3.mb-5
