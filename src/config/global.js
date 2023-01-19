@@ -161,7 +161,7 @@ export default {
     {
       tema: 'La información contable',
       referencia:
-        'IFRS Foundation. (s.f.). <em> Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores.</em> ',
+        'IFRS Foundation (s.f.). <em>Norma Internacional de Contabilidad 8. Políticas Contables, Cambios en las Estimaciones Contables y Errores.</em> ',
       tipo: 'PDF',
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
@@ -183,7 +183,7 @@ export default {
         'https://www.dian.gov.co/normatividad/Normatividad/Resoluci%C3%B3n%20000167%20de%2030-12-2021.pdf',
     },
     {
-      tema: 'Archivo y conservación de documentos',
+      tema: 'Documentos y libros contables',
       referencia:
         'PROING – SA OFICIAL. (2017). <em>Organización y archivo de documentos – Gestión documental</em> (video).',
       tipo: 'Video',
