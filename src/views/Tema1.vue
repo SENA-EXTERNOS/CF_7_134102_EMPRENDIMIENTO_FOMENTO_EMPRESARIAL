@@ -162,7 +162,7 @@
           .col-lg-8.col-6
             p.mb-0 Amplíe sus conocimientos relacionados con la clasificación de las empresas; estudie con atención el documento #[b Clasificación de las empresas.]
           .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-acento-botones(:href="obtenerLink('/downloads/Clasificación de las empresas.pdf')", target='_blank')
+            a.boton.boton--b.color-acento-botones(:href="obtenerLink('/downloads/Clasificacion_de_las_empresas.pdf')", target='_blank')
               span Ver documento
               i.fas.fa-file-download
 

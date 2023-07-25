@@ -43,7 +43,7 @@
             p.mb-0 Para conocer estos impuestos, lo invitamos a leer el documento 
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
-              :href="obtenerLink('/downloads/Tipos de impuesto.pdf')",
+              :href="obtenerLink('/downloads/Tipo_de_impuesto.pdf')",
               target='_blank'
             )
               span Ver documento 

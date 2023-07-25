@@ -313,17 +313,14 @@ export default {
     {
       referencia:
         'Hernández, S. (2011). Introducción a la administración. McGraw-Hill Interamericana.',
-      link: ' ',
     },
     {
       referencia:
         'Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa. Julio 10 de 2000. DO. No. 44.078',
-      link: ' ',
     },
     {
       referencia:
         'Decreto 2650 de 2008. [Ministerio de Defensa Nacional]. Por el cual se modifica la estructura de la Caja Promotora de Vivienda Militar y de Policía y se determinan las funciones de sus dependencias. Julio 18 de 2008.',
-      link: ' ',
     },
     {
       referencia:
@@ -333,7 +330,6 @@ export default {
     {
       referencia:
         'Luis Raúl Uribe Medina (2016). <em>Plan de cuentas para sistemas contables.</em> Docplayer.',
-      link: ' ',
     },
     {
       referencia:

@@ -189,7 +189,7 @@
               img(src='@/assets/template/tema06/t6-i5.png')
 
           .tarjeta.text-black.p-3.bg-secundario(x='20.5%', y='65%', numero='+')
-            p.mb-0 Está estipulado en el artículo 145 del CST. Monto mínimo al que todo trabajador tiene derecho. Es decretado por el gobierno nacional anualmente; para el año 2022, en Colombia se decretó por $1.000.000.
+            p.mb-0 Está estipulado en el artículo 145 del CST. Monto mínimo al que todo trabajador tiene derecho. Es decretado por el gobierno nacional anualmente; para el año 2023, en Colombia se decretó por $1.160.000.
 
           .tarjeta.text-black.p-3.bg-secundario(x='38%', y='21%', numero='+') 
             p.mb-0 Está estipulado por el artículo 132 del CST. Está conformado por un valor salarial equivalente a 10 salarios mínimos, que constituye un 70 % del total de la remuneración.
