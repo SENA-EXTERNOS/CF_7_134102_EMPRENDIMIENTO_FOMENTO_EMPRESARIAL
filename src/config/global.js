@@ -302,7 +302,8 @@ export default {
     {
       referencia:
         'Decreto 2420 de 2015. [Presidencia de la República]. Por medio de la cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones. Diciembre 14 de 2015. ',
-      link: '',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
     },
     {
       referencia:
@@ -313,14 +314,20 @@ export default {
     {
       referencia:
         'Hernández, S. (2011). Introducción a la administración. McGraw-Hill Interamericana.',
+      link:
+        'https://santic.cl/mt-content/uploads/2022/09/hernandez_introduccion_a_la_admin.pdf',
     },
     {
       referencia:
         'Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa. Julio 10 de 2000. DO. No. 44.078',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12672',
     },
     {
       referencia:
         'Decreto 2650 de 2008. [Ministerio de Defensa Nacional]. Por el cual se modifica la estructura de la Caja Promotora de Vivienda Militar y de Policía y se determinan las funciones de sus dependencias. Julio 18 de 2008.',
+      link:
+        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1803283',
     },
     {
       referencia:
@@ -330,6 +337,7 @@ export default {
     {
       referencia:
         'Luis Raúl Uribe Medina (2016). <em>Plan de cuentas para sistemas contables.</em> Docplayer.',
+      link: 'https://docplayer.es/33172203-Luis-raul-uribe-medina.htm',
     },
     {
       referencia:
