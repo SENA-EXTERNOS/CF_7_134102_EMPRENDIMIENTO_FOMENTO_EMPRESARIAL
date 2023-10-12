@@ -7,14 +7,17 @@
         span 2
       h1 Documentos y libros contables
 
-    .row.mb-5
-      .col-lg-5
+    .row
+      .col-lg-5.mb-3.mb-lg-0
         figure
           img(src='@/assets/template/tema02/t2-i1.png')
       .col-lg-7
         p Toda organización, para su funcionamiento, requiere soportar el registro de transacciones, con la finalidad que le sirva como medio de prueba y soporte de las actividades propias que su organización ejecuta en la cotidianidad.
-        p Los documentos contables soportan hechos económicos propios de la organización y, al ser registrados, afectan la contabilidad de la empresa; los documentos no contables soportan transacciones de la empresa pero, al no registrarse contablemente, no afectan la contabilidad.
+        p Los documentos contables soportan hechos económicos propios de la organización y, al ser registrados, afectan la contabilidad de la empresa; los documentos no contables soportan transacciones de la empresa, pero, al no registrarse contablemente, no afectan la contabilidad.
 
+
+    Separador
+    
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1 Documentos contables
 
@@ -138,11 +141,11 @@
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
-      | Documentos extra contables y títulos valores
+      | Documentos extracontables y títulos valores
 
     p Los documentos extracontables generan una ganancia o utilidad de manera previa a la transacción comercial. No causan registro en la contabilidad y son meramente informativos.
 
-    p.mb-5 Algunos documentos no contables son:
+    p.mb-4 Algunos documentos no contables son:
 
     .row.mb-5
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -152,7 +155,7 @@
               figure
                 img(
                   src='@/assets/template/tema02/t2-i3.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
 
           h3.text-center Cotización
@@ -165,7 +168,7 @@
               figure
                 img(
                   src='@/assets/template/tema02/t2-i3.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
 
           h3.text-center Pedido
@@ -178,7 +181,7 @@
               figure
                 img(
                   src='@/assets/template/tema02/t2-i3.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
 
           h3.text-center Remisión
@@ -224,6 +227,9 @@
                     i.fas.fa-check
                     | Valor en letras y números.
 
+
+    Separador
+
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Libros contables
 
@@ -235,12 +241,11 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto “Todo comerciante conformará su contabilidad, libros, registros contables, inventarios y estados financieros en general, a las disposiciones de este Código y demás normas sobre la materia” (Código de Comercio, Art. 48).
-
+          h4.text-regular.bloque-texto-f__texto “Todo comerciante conformará su contabilidad, libros, registros contables, inventarios y estados financieros en general, a las disposiciones de este Código y demás normas sobre la materia” 
           .bloque-texto-f__autor-right.mb-3
-            h3.mb-0 (Código de Comercio, Art. 48)
+            h4.mb-0 (Código de Comercio, Art. 48)
 
-    p.mb-5 Los libros de comercio para los efectos legales, se entenderán como los que determine la ley como obligatorios y los auxiliares necesarios para el completo entendimiento de aquellos (Código de Comercio, Art 49).
+    p.mb-5 Los libros de comercio, para los efectos legales, se entenderán como los que determine la ley como obligatorios y los auxiliares necesarios para el completo entendimiento de aquellos (Código de Comercio, Art 49).
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -249,7 +254,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i5.png")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme con Ia reglamentación del gobierno. Los libros podrán llevarse en archivos electrónicos, que garanticen, de forma ordenada, Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará, de acuerdo con Ia reglamentación que expida el Gobierno Nacional. (Código de Comercio, Art 56)
+            p Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme con Ia reglamentación del gobierno. Los libros podrán llevarse en archivos electrónicos, que garanticen, de forma ordenada, Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con Ia reglamentación que expida el Gobierno Nacional. (Código de Comercio, Art 56)
 
     p.mb-5 Para dar cumplimiento, las empresas deben registrar ante cámaras de comercio, por disposición del artículo 175 del Decreto Ley 019 de 2012:
 
@@ -260,13 +265,13 @@
             figure
               img(
                 src='@/assets/template/tema02/t2-i6.svg',
-                alt='Texto que describa la imagen'
+                alt=''
               )
           .col-lg-6 
             figure
               img(
                 src='@/assets/template/tema02/t2-i7.svg',
-                alt='Texto que describa la imagen'
+                alt=''
               )
 
           .col-lg-12
@@ -275,7 +280,7 @@
                 figure
                   img(
                     src='@/assets/template/tema02/t2-i8.svg',
-                    alt='Texto que describa la imagen'
+                    alt=''
                   )
 
     h3.mb-5
@@ -306,14 +311,14 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 ) 
           .row.align-items-center
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               p.text-start Dejar espacios que faciliten intercalaciones o adiciones en el texto de los asientos, o a continuación de los mismos.
@@ -325,17 +330,17 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
           .row.align-items-center
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
-              p.text-start Borrar o tachar en todo o en parte, los asientos.
+              p.text-start Borrar o tachar en todos, o en parte de, los asientos.
           .row.align-items-center
             .col-md-10.col-8.mb-md-0
               p.text-start Arrancar hojas, alterar el orden de las mismas, mutilar los libros, o alterar los archivos electrónicos.
@@ -344,33 +349,33 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 ) 
           .row.align-items-center
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
-              p.text-start Crear cuentas en los libros contables, que no cuenten con los comprobantes y soportes correspondientes.
+              p.text-start Crear cuentas en los libros contables que no cuenten con los comprobantes y soportes correspondientes.
           .row.align-items-center
             .col-md-10.col-8.mb-md-0
-              p.text-start No asentar en los libros contables, las operaciones efectuadas.
+              p.text-start No asentar en los libros contables las operaciones efectuadas.
 
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 ) 
           .row.align-items-center
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               p.text-start Llevar doble contabilidad, es decir, llevar dos o más libros iguales en los que se registre, en forma diferente, las mismas operaciones, o cuando se tengan distintos comprobantes sobre los mismos actos.
@@ -382,14 +387,14 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 ) 
           .row.align-items-center
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               p.text-start Utilizar documentos falsos que sirvan de soporte a la contabilidad.
@@ -401,8 +406,11 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema02/t2-i9.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 ) 
+
+
+    Separador
 
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Títulos valores
@@ -442,14 +450,14 @@
     p.mb-5 De acuerdo con la normativa vigente, toda empresa puede optar por emitir cualquiera de los títulos que ella contempla y, por lo tanto, se han clasificado de la siguiente manera:
 
     .row
-      .col-lg-4.order-2.order-lg-1.mb-4.mb-lg-0(data-aos='zoom-in')
+      .col-lg-3.order-2.order-lg-1.mb-4.mb-lg-0(data-aos='zoom-in')
         figure
           img.m-auto(
             src='@/assets/template/tema02/t2-i12.svg',
             alt='alt',
             style='width: 450px'
           )       
-      .col-lg-8.order-1.order-lg-2
+      .col-lg-9.order-1.order-lg-2
         TabsA.tab-color-acento-contenido.color-acento-contenido.mb-5 
           .tarjeta.clr-paleYellow.p-4(titulo='Títulos nominativos')
             p Se exige la inscripción de un tenedor, quien es el gozante de los derechos que este contempla, y la única persona que se reconocerá como tenedor legítimo.

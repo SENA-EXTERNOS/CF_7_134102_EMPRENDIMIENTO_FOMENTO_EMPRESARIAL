@@ -42,7 +42,7 @@
               i.fas.fa-check
               p
                 strong Horas extraordinarias:&nbsp;
-                | las horas extraordinarias son las cantidades de tiempo adicionales que un trabajador realiza, además de su jornada de trabajo.
+                | son las cantidades de tiempo adicionales que un trabajador realiza, además de su jornada de trabajo.
             li 
               i.fas.fa-check
               p
@@ -72,7 +72,7 @@
           figure
             img(
               src='@/assets/template/tema06/t6-i2.png',
-              alt='Texto que describa la imagen'
+              alt=''
             ) 
       .row(titulo='Deducciones ')
         .col-8
@@ -115,10 +115,10 @@
           figure
             img(
               src='@/assets/template/tema06/t6-i3.png',
-              alt='Texto que describa la imagen'
+              alt=''
             ) 
 
-    p.mb-5 El documento en el que se relacionan estos conceptos, se conoce de manera común como nómina, y está compuesta por los siguientes elementos:
+    p.mb-5 El documento en el que se relacionan estos conceptos se conoce de manera común como nómina, y está compuesta por los siguientes elementos:
 
     .row.d-flex.justify-content-center.mb-5
       .col-md-6
@@ -215,9 +215,9 @@
 
       .col-lg-10
         .cajon.bg-cajon-acento-contenido.p-4
-          p.mb-0 Para poder laborar el tiempo suplementario, el empleador deberá solicitar autorización del Ministerio de Protección Social, y si lo obtiene deberá llevar un registro de trabajo suplementario y está obligado a entregar al trabajador, una relación de las horas extras laboradas.
+          p.mb-0 Para poder laborar el tiempo suplementario, el empleador deberá solicitar autorización del Ministerio de Protección Social, y si lo obtiene deberá llevar un registro de trabajo suplementario y está obligado a entregar al trabajador una relación de las horas extras laboradas.
 
-    p.mb-5 La liquidación del trabajo extra o suplementario, se llevará a cabo de acuerdo con las fórmulas presentadas a continuación:
+    p.mb-5 La liquidación del trabajo extra o suplementario se llevará a cabo de acuerdo con las fórmulas presentadas a continuación:
 
     .row.justify-content-center.mb-5
       .col-lg-12
@@ -228,19 +228,19 @@
                 figure
                   img(
                     src='@/assets/template/tema06/t6-i7.png',
-                    alt='Texto que describa la imagen'
+                    alt=''
                   ) 
           .col-lg-6.my-2
             figure
               img(
                 src='@/assets/template/tema06/t6-i8.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
           .col-lg-6.my-2 
             figure
               img(
                 src='@/assets/template/tema06/t6-i9.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
 
     .row.justify-content-center.mb-5
@@ -250,9 +250,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema06/t6-i10.png")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p Igualmente, los recargos nocturnos, los dominicales y los festivos, son términos y condiciones sujetos a la jornada normal de trabajo del empleado, según lo acordado entre las partes.
-
-            p Para efectos legales, se considera como trabajo diurno el comprendido entre las 6:00 a.m. y las 10:00 p.m. y trabajo nocturno entre las 10:00 p.m. y las 6:00 a.m. Esta distinción ofrece importancia para el régimen de retribución de los recargos legales como horas extras y trabajo nocturno. En este caso, no hay trabajo extra, sino un recargo por trabajar en dicho horario.
+            p Igualmente, los recargos nocturnos, los dominicales y los festivos, son términos y condiciones sujetos a la jornada normal de trabajo del empleado, según lo acordado entre las partes. Para efectos legales, se considera como trabajo diurno el comprendido entre las 6:00 a.m. y las 10:00 p.m. y trabajo nocturno entre las 10:00 p.m. y las 6:00 a.m. Esta distinción ofrece importancia para el régimen de retribución de los recargos legales como horas extras y trabajo nocturno. En este caso, no hay trabajo extra, sino un recargo por trabajar en dicho horario.
 
     .row.justify-content-center.mb-5
       .col-lg-10.mb-4
@@ -272,7 +270,7 @@
         AcordionA.mb-5.bg-secundary-acordeon(tipo='a', clase-tarjeta='tarjeta acordeonA')
           .row(titulo='Auxilio de cesantías')
             .col-12
-              p Son una prestación social a cargo de todo empleador, cuyo fin es un ahorro que tiene el trabajador para cuando esté desempleado, o para invertirlas en el pago sus estudios, el de su cónyuge, compañero permanente, o el de sus hijos, para compra, mejora o liberación de gravámenes de su vivienda.
+              p Son una prestación social a cargo de todo empleador, cuyo fin es un ahorro que tiene el trabajador para cuando esté desempleado, o para invertirlas en el pago de sus estudios, el de su cónyuge, compañero permanente, o el de sus hijos, para compra, mejora o liberación de gravámenes de su vivienda.
               strong Fórmula para liquidar cesantías = valor del salario mensual x los días laborados en el año / 360.
               p Las cesantías se causan a 31 de diciembre de cada año y se consignan en el fondo de cesantías que elija el trabajador, a más tardar el 14 de febrero del año siguiente. De no consignarse en la fecha establecida, el empleador deberá pagar una multa de un día de salario por cada día de retraso, a favor del trabajador.
           .row(titulo='Intereses sobre las cesantías')
@@ -493,12 +491,12 @@
           figure
             img(
               src='@/assets/template/tema06/t6-i15.svg',
-              alt='Texto que describa la imagen'
+              alt=''
             )
 
     p El Fondo de Solidaridad Pensional, lo pagan los asalariados que ganen más de 4 salarios mínimos; equivale al 1 % del Ingreso Base de Cotización, sin subsidio de transporte.
 
-    p.mb-5 El formato estándar utilizado para la liquidación de nómina, se debe regir por la legislación vigente, que define la estructura mínima y el contenido que debe seguirse en todo momento.
+    p.mb-5 El formato estándar utilizado para la liquidación de nómina se debe regir por la legislación vigente, que define la estructura mínima y el contenido que debe seguirse en todo momento.
 
     .row.justify-content-center.mb-5
       .col-lg-10.mb-4
@@ -506,10 +504,8 @@
           .row 
             .col-lg-2.p-3
               figure
-                img(
-                  src='@/assets/template/tema06/t6-i14.png',
-                  alt='Texto que describa la imagen'
-                ) 
+                img.px-lg-3(
+                  src='@/assets/template/tema06/t6-i14.png', alt='') 
             .col-lg-10
               p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>

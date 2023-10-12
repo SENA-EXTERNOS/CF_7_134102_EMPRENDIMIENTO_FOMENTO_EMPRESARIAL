@@ -17,6 +17,9 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 La mayoría de las personas consideran a la contabilidad como un escenario netamente técnico, en el que solamente profesionales de la contaduría pueden manejarla y comprenderla; concepto erróneo, porque realmente se podría decir que todos utilizamos constantemente la información contable; algunos en mayor o menor proporción que otros. En nuestra cotidianidad, por ejemplo, al realizar cuentas de las entradas y salidas de dinero, obtenidas durante un periodo determinado, se está llevando a cabo una contabilización.    
+    
+
+    Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 La contabilidad y su clasificación
@@ -27,7 +30,7 @@
               p.mb-0 Indica Zapata (2018), que la contabilidad se define como la ciencia, la técnica y el arte de reconocer, valorar, presentar y analizar las operaciones económicas y financieras que realiza una empresa durante un período determinado, con el fin de conocer los resultados obtenidos y estructurar los estados financieros que servirán, como fundamento, para la toma de decisiones gerenciales (p. 21). En términos cotidianos, podríamos definir que la contabilidad es la encargada de llevar el registro de los movimientos y transacciones diarias de una organización, en un momento específico, con la finalidad de generar informes que puedan ser útiles para tomar decisiones importantes. 
 
 
-    p Partiendo de lo anterior, es importante resaltar que el objetivo principal, de quien contabiliza, es el de tomar las mejores decisiones, que le permitan maximizar sus recursos y, al mismo tiempo, le ayuden a decidir donde ubicarlos e invertirlos.
+    p Partiendo de lo anterior, es importante resaltar que el objetivo principal, de quien contabiliza, es el de tomar las mejores decisiones, que le permitan maximizar sus recursos y, al mismo tiempo, le ayuden a decidir dónde ubicarlos e invertirlos.
 
     p.mb-5 Dentro de los objetivos de la contabilidad, también encontramos los definidos en el Decreto 2649 de 1993, Art. 3. Objetivos básicos. La información contable debe servir fundamentalmente para:
 
@@ -60,14 +63,14 @@
             | Ayudar a la conformación de la información estadística nacional.
           li 
             i.fas.fa-check
-            | Contribuir con la evaluación del beneficio o el impacto social, que la actividad económica de un ente, represente para la comunidad.
+            | Contribuir con la evaluación del beneficio o el impacto social que la actividad económica de un ente represente para la comunidad.
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
       | Tipos de información contable
 
     p Desde la perspectiva del usuario de la contabilidad, se puede tener una necesidad específica, y otros usuarios pueden requerir de otro tipo de necesidades.
-    p.mb-5 Existen muchos tipos de información contable pero, en este apartado, se mencionan los principales: 
+    p.mb-4 Existen muchos tipos de información contable, pero, en este apartado, se mencionan los principales: 
            
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -95,17 +98,20 @@
             h4.mb-3.text-center Contabilidad tributaria
             p.mb-0.text-center Rama de la contabilidad cuyo enfoque se concentra en la planeación y organización de los deberes fiscales que tiene la empresa o individuo, con la finalidad que cumpla, a cabalidad, sus compromisos estatales y evite sanciones por omisión, o equivocaciones en impuestos a su cargo.
 
-    p.mb-5 En algún momento, todos somos usuarios de la información contable y, por lo general, podemos actuar como los tipos de usuarios que se observan a continuación:
+    p.mb-4 En algún momento, todos somos usuarios de la información contable y, por lo general, podemos actuar como los tipos de usuarios que se observan a continuación:
 
     .row.justify-content-center.mb-5
       .col-lg-9
         figure
           img(src="@/assets/template/tema01/t1-i6.svg", alt="alt")
 
+
+    Separador
+
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 La empresa en Colombia
 
-    p.mb-5 Se puede definir una empresa como el individuo o grupo de personas con ideales similares, que buscan un beneficio en común y deciden organizarse legalmente para prestar un servicio o realizar alguna actividad que la ley considere mercantil. En Colombia, puede darse la opción de variedad de empresas que se dedican a atender las mismas, o diferentes tipos de solicitudes
+    p.mb-5 Se puede definir una empresa como el individuo o grupo de personas con ideales similares, que buscan un beneficio en común y deciden organizarse legalmente para prestar un servicio o realizar alguna actividad que la ley considere mercantil. En Colombia, puede darse la opción de variedad de empresas que se dedican a atender las mismas o diferentes tipos de solicitudes
    
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -170,10 +176,10 @@
       i.fas.fa-square.cac.me-3
       | Formalización de empresa
 
-    p.mb-5 Teniendo clara la clasificación y el modelo societario, se deben tener en cuenta los requisitos exigidos, actualmente, en el territorio nacional colombiano, para su legalización.
+    p.mb-5 Teniendo clara la clasificación y el modelo societario, se deben tener en cuenta los requisitos exigidos, actualmente, en el territorio nacional colombiano para su legalización.
 
     h4 Requisitos comerciales
-    p.mb-5 Los requisitos comerciales exigidos para la formalización de una empresa, son:
+    p.mb-5 Los requisitos comerciales exigidos para la formalización de una empresa son:
 
     .tarjeta.bg-slider.p-5.mb-5
       SlyderA(tipo="b")
@@ -185,14 +191,14 @@
             p Para evitar que dos o más empresas puedan hacer uso de un mismo nombre, las cámaras de comercio ofrecen el servicio de control de homonimia, verificación que debe realizarse, previamente, para consultar la disponibilidad del nombre seleccionado.             
           .col-md-6
             figure
-              img(src='@/assets/template/tema01/t1-i9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema01/t1-i9.svg', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Documento de constitución
             p Posterior a la selección del nombre apropiado y disponible, quienes constituirán la sociedad deberán realizar un documento donde se estipulen los datos establecidos en el Artículo 110 del Código de Comercio (nombre, identificación, domicilio de los socios o accionistas, domicilio de la empresa, duración, actividades de la empresa, así como el monto de los aportes realizados, facultades de los administradores y todo aquello que sea necesario, de forma detallada).           
           .col-md-6
             figure
-              img(src='@/assets/template/tema01/t1-i10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema01/t1-i10.svg', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Registro único empresarial y social RUES
@@ -224,14 +230,14 @@
                 | Registro de la economía solidaria.               
           .col-md-6
             figure
-              img(src='@/assets/template/tema01/t1-i11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema01/t1-i11.svg', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Matrícula mercantil
             p Es el documento mediante el cual la organización demuestra su existencia y constitución legal; esto le permite gozar de la protección del nombre comercial, hacer pública la condición de comerciante, evitar multas y sanciones de entidades de vigilancia y control, facilidad de obtención de créditos y contar con asesoría permanente por parte de la cámara de comercio a la cual está adscrita la empresa.                   
           .col-md-6
             figure
-              img(src='@/assets/template/tema01/t1-i12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema01/t1-i12.svg', alt='')
 
     h4.mb-5 Requisitos de funcionamiento
 
@@ -266,10 +272,9 @@
       .col-sm-6.col-lg-6.mb-4.mb-lg-0
         .tarjeta--boton.bg-color-primario.p-4.h-38
           .row.justify-content-center.mb-3
-            .col-7
+            .col-6.col-md-4
               figure
-                img(src='@/assets/template/tema01/t1-i14.svg', alt='Texto que describa la imagen')
-
+                img(src='@/assets/template/tema01/t1-i14.svg', alt='')
           h3.text-center Obligaciones contractuales
           p Para efectos de contratar personal en la organización y la relación laboral. 
           ul.lista-ul--color
@@ -289,10 +294,9 @@
       .col-sm-6.col-lg-6.mb-4.mb-lg-0
         .tarjeta--boton.bg-color-primario.p-4.h-38
           .row.justify-content-center.mb-3
-            .col-7
+            .col-6.col-md-4
               figure
-                img(src='@/assets/template/tema01/t1-i15.svg', alt='Texto que describa la imagen')
-
+                img(src='@/assets/template/tema01/t1-i15.svg', alt='')
           h3.text-center Obligaciones de seguridad en el trabajo
           p Para efectos de convivencia, seguridad y salud en el trabajo.
           ul.lista-ul--color
@@ -398,8 +402,11 @@
               p.mb-0 Por el cual se expide el Estatuto Tributario de los Impuestos Administrados por la Dirección General de Impuestos Nacionales, DIAN. 
 
 
-    p.mb-5 De esta forma, los marcos normativos contables actuales, para las entidades de naturaleza privada, están asociados con los decretos emitidos según los grupos de aplicación y su caracterización; grupos 1, 2 y 3, además de algunas definiciones del decreto 2649 que aún persisten, mientras que los marcos normativos para las entidades de naturaleza pública, están asociados con las resoluciones correspondientes, también según su caracterización.
-                 
+    p De esta forma, los marcos normativos contables actuales, para las entidades de naturaleza privada, están asociados con los decretos emitidos según los grupos de aplicación y su caracterización; grupos 1, 2 y 3, además de algunas definiciones del decreto 2649 que aún persisten, mientras que los marcos normativos para las entidades de naturaleza pública están asociados con las resoluciones correspondientes, también según su caracterización.
+
+
+    Separador
+    
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 La información contable
 
@@ -412,7 +419,7 @@
             :style="{'background-image': `url(${require('@/assets/template/tema01/t1-i19.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Teniendo en cuenta que la información contable satisface la necesidad de interés público y, en particular, de sus propietarios, se puede decir que los usuarios son todas aquellas personas que requieren de una información financiera comprensible, confiable y pertinente, que sirva de apoyo para la toma de decisiones y, a su vez, les permita tener mejores prácticas y una evolución a nivel internacional, de sus negocios.
+            p Teniendo en cuenta que la información contable satisface la necesidad de interés público y, en particular, de sus propietarios, se puede decir que los usuarios son todas aquellas personas que requieren de una información financiera comprensible, confiable y pertinente, que sirva de apoyo para la toma de decisiones y, a su vez, les permita tener mejores prácticas y una evolución a nivel internacional de sus negocios.
 
     p.mb-5 Entre quienes pueden requerir de la información contable encontramos: propietarios, funcionarios, empleados, inversionistas y otras partes interesadas en mejorar la productividad y el desarrollo armónico de las actividades empresariales.
 
@@ -424,22 +431,20 @@
       .col-lg-10
         .cajon.bg-cajon-acento-contenido.p-4
           .row 
-            .col-lg-3.mb-3
+            .col-lg-3.mb-3.mb-lg-0
               .row.justify-content-center
-                .col-lg-7.col-4
+                .col-lg-6.col-4
                   figure
                     img(src='@/assets/template/tema01/t1-i20.png')
             .col-lg-9
-              p.mb-0 El periodo contable hace referencia al tiempo que la organización define para presentar sus informes financieros; en Colombia es necesario como mínimo, una vez al año entre el 1 de enero y el 31 de diciembre; sin embargo, las autoridades competentes podrán solicitar estados contables intermedios, e informes y reportes contables. 
+              p.mb-0 El periodo contable hace referencia al tiempo que la organización define para presentar sus informes financieros; en Colombia es necesario como mínimo una vez al año, entre el 1 de enero y el 31 de diciembre; sin embargo, las autoridades competentes podrán solicitar estados contables intermedios, e informes y reportes contables. 
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
       | Características cualitativas de la información contable
 
     p Cuando se habla de útil, se hace referencia a aquella información que va a proporcionar elementos significativos y enriquecedores a los usuarios de la información contable, para la toma de decisiones sobre la entidad que emite su información.
-      br
-      br
-      |Esta información contable se realiza a partir de registros y transacciones capturadas en el ejercicio de la actividad económica de la empresa; entre estas características se encuentran:
+    p.mb-4 Esta información contable se realiza a partir de registros y transacciones capturadas en el ejercicio de la actividad económica de la empresa; entre estas características se encuentran:
 
 
     .row.d-flex.justify-content-center.mb-5
@@ -454,14 +459,14 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i21.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )    
           .row
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i22.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Representación fiel
@@ -475,14 +480,14 @@
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i23.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )  
           .row
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i24.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Verificabilidad
@@ -490,20 +495,20 @@
           .row
             .col-md-10.col-8.mb-md-0
               h3 Oportunidad
-              p.text-start La información presentada debe permitir que los usuarios de la misma, puedan tomar decisiones en cualquier momento, debido a que está actualizada y es pertinente.
+              p.text-start La información presentada debe permitir que los usuarios de la misma puedan tomar decisiones en cualquier momento, debido a que está actualizada y es pertinente.
 
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i25.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )  
           .row
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema01/t1-i26.svg',
-                  alt='Texto que describa la imagen'
+                  alt=''
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Comprensibilidad

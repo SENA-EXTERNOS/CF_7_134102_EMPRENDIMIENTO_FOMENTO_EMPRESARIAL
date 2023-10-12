@@ -337,7 +337,7 @@ export default {
     {
       referencia:
         'Luis Raúl Uribe Medina (2016). <em>Plan de cuentas para sistemas contables.</em> Docplayer.',
-      link: 'https://docplayer.es/33172203-Luis-raul-uribe-medina.htm',
+      link: 'https://docplayer.es/33172203-Luis-raul-uribe-medina.html',
     },
     {
       referencia:

@@ -44,7 +44,7 @@
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema05/t5-i1.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
       .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros intermedios')
         .row 
@@ -70,7 +70,7 @@
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema05/t5-i2.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
       .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros separados')
         .row 
@@ -80,7 +80,7 @@
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema05/t5-i3.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
       .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros<br>consolidados')
         .row 
@@ -106,7 +106,7 @@
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema05/t5-i4.png',
-                alt='Texto que describa la imagen'
+                alt=''
               )
 
     h3.mb-5
@@ -143,7 +143,7 @@
             
           .col-md-6
             figure
-              img(src='@/assets/template/tema05/t5-i6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema05/t5-i6.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             h4 ¿Cómo se ingresa información al software?
@@ -164,7 +164,7 @@
             
           .col-md-6
             figure
-              img(src='@/assets/template/tema05/t5-i7.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema05/t5-i7.png', alt='')
         .row
           .col-md-6.mb-4.mb-md-0
             h4 ¿Cómo se realiza la generación de reportes?
@@ -176,7 +176,7 @@
                         
           .col-md-6
             figure
-              img(src='@/assets/template/tema05/t5-i8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema05/t5-i8.png', alt='')
 
 </template>
 

@@ -16,13 +16,13 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i1.svg")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p Estos hechos contables o transacciones, permiten clasificar y determinar la representación, y posterior definición del registro contable, para que esta clasificación se realice de manera oportuna; la entidad debe diseñar, con anterioridad, un manual de políticas contables y ajustarlo basado en la normativa vigente; para este caso, la NIC 8.  
+            p Estos hechos contables o transacciones permiten clasificar y determinar la representación, y posterior definición del registro contable, para que esta clasificación se realice de manera oportuna; la entidad debe diseñar, con anterioridad, un manual de políticas contables y ajustarlo basado en la normativa vigente; para este caso, la NIC 8.  
 
     h3.mb-5
       i.fas.fa-square.cac.me-3
       | De la cuenta
 
-    p.mb-5 Para organizar y registrar los hechos económicos de una organización, es necesario y apropiado emplear cuentas contables, las cuales deben utilizarse de manera apropiada, porque un mal uso de ellas ocasiona una contabilidad alejada de la realidad de la organización. Es necesario que la persona encomendada para esta actividad, posea bases sólidas y conocimientos claros sobre este tema.
+    p.mb-5 Para organizar y registrar los hechos económicos de una organización, es necesario y apropiado emplear cuentas contables, las cuales deben utilizarse de manera apropiada, porque un mal uso de ellas ocasiona una contabilidad alejada de la realidad de la organización. Es necesario que la persona encomendada para esta actividad posea bases sólidas y conocimientos claros sobre este tema.
     
     .row.justify-content-center.mb-5    
       .col-lg-10.px-4
@@ -47,7 +47,7 @@
       i.fas.fa-square.cac.me-3
       | Ecuación contable 
 
-    p.mb-5 Ecuación contable se refiere a la igualdad que nos muestra que, el valor de los recursos llamados activos de una empresa o compañía, es igual al valor de los recursos propios llamados patrimonio, más el valor de los recursos obtenidos del tercero, conocidos como pasivos. Gráficamente, la ecuación se construye así:
+    p.mb-5 Se refiere a la igualdad que nos muestra que, el valor de los recursos llamados activos de una empresa o compañía, es igual al valor de los recursos propios llamados patrimonio, más el valor de los recursos obtenidos del tercero, conocidos como pasivos. Gráficamente, la ecuación se construye así:
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -71,7 +71,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i4.svg")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p Consiste en que por cada movimiento contable, deben estar presentes, como mínimo, dos cuentas. Esto significa que, en cada asiento contable, la suma de los débitos debe ser igual a la suma de los créditos.
+            p Consiste en que, por cada movimiento contable, deben estar presentes, como mínimo, dos cuentas. Esto significa que, en cada asiento contable, la suma de los débitos debe ser igual a la suma de los créditos.
 
     p.mb-5 A continuación, se presenta una serie de términos importantes a tener en cuenta en los hechos contables.
 
@@ -83,28 +83,28 @@
         
           .col-md-6
             figure
-              img(src='@/assets/template/tema03/t3-i5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema03/t3-i5.png', alt='')
       .py-3.py-md-4(titulo="<strong>Baja de cuentas</strong>")
         .row
           .col-md-6.mb-4.mb-md-0
             p Bajar o retirar, hace referencia a la eliminación total o parcial de alguno de los registros, por situaciones como pérdida de derechos adquiridos (venta de un activo), o pago de una deuda con proveedor (eliminación del pasivo).    
           .col-md-6
             figure
-              img(src='@/assets/template/tema03/t3-i6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema03/t3-i6.png', alt='')
       .py-3.py-md-4(titulo="<strong>Medición</strong>")
         .row
           .col-md-6.mb-4.mb-md-0
             p Hace referencia al proceso mediante el cual se le asigna un valor monetario a la transacción económica; este proceso se lleva a cabo en dos momentos diferentes, en el reconocimiento inicial y en la medición posterior.    
           .col-md-6
             figure
-              img(src='@/assets/template/tema03/t3-i7.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema03/t3-i7.png', alt='')
       .py-3.py-md-4(titulo="<strong>Política contable</strong>")
         .row
           .col-md-6.mb-4.mb-md-0
             p Se refiere a las reglas o parámetros con los que se elaboran los estatutos financieros, para que cuando alguien los lea, identifique cuál fue la base para elaborar los estados financieros; las políticas, lo que hacen es contextualizar cómo y bajo qué metodología, se prepararon los estados financieros.        
           .col-md-6
             figure
-              img(src='@/assets/template/tema03/t3-i8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema03/t3-i8.png', alt='')
 
 </template>
 
