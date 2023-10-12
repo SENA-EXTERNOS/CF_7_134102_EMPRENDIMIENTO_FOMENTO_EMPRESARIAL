@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF_7_134102_EMPRENDIMIENTO_FOMENTO_EMPRESARIAL/](https://sena-externos.github.io/CF_7_134102_EMPRENDIMIENTO_FOMENTO_EMPRESARIAL/)
 
 #
 
