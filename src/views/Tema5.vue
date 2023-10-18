@@ -16,8 +16,8 @@
 
     p.mb-5 En las NIIF, dependiendo de las características e información que ofrecen los reportes financieros, se clasifican en:
 
-    TabsA.tab-color-acento-contenido.color-acento-contenido.mb-5 
-      .tarjeta.clr-paleYellow.p-4(titulo='De propósito general')
+    TabsC.tab-color-acento-contenido.color-acento-contenido.mb-5 
+      .tarjeta.clr-paleYellow.p-4.mb-4(titulo='De propósito general')
         .row 
           .col-lg-7
             p Son estados financieros cuya elaboración y presentación es obligatoria al menos una vez al año; los usuarios de estos informes son un público indeterminado y su propósito es el de dar a conocer información financiera sobre el ente económico. El conjunto completo está conformado por:
@@ -46,7 +46,7 @@
                 src='@/assets/template/tema05/t5-i1.png',
                 alt=''
               )
-      .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros intermedios')
+      .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Estados financieros intermedios')
         .row 
           .col-lg-7
             p Están conformados por aquellos estados financieros que se preparan y presentan, aplicando principalmente las NIC 1 y 7, para satisfacer necesidades de información de períodos intermedios (entre enero y diciembre); entre ellos se encuentran:
@@ -72,7 +72,7 @@
                 src='@/assets/template/tema05/t5-i2.png',
                 alt=''
               )
-      .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros separados')
+      .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Estados financieros separados')
         .row 
           .col-lg-7
             p Corresponde a aquellos estados financieros elaborados por cada inversionista, sea este un controlador o matriz, un inversionista en una organización asociada o un partícipe en una compañía controlada conjuntamente, donde los inversionistas han contabilizado su inversión por el costo histórico y no por los cambios patrimoniales que la sociedad receptora ha experimentado.
@@ -82,7 +82,7 @@
                 src='@/assets/template/tema05/t5-i3.png',
                 alt=''
               )
-      .tarjeta.clr-paleYellow.p-4(titulo='Estados financieros<br>consolidados')
+      .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Estados financieros<br>consolidados')
         .row 
           .col-lg-7
             p Son aquellos que se elaboran y se presentan en un grupo empresarial, como si fuera una sola entidad. Los estados financieros consolidados que se deben preparar, elaborar y presentar, son:
