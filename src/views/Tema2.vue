@@ -458,12 +458,12 @@
             style='width: 450px'
           )       
       .col-lg-9.order-1.order-lg-2
-        TabsA.tab-color-acento-contenido.color-acento-contenido.mb-5 
-          .tarjeta.clr-paleYellow.p-4(titulo='Títulos nominativos')
+        TabsC.tab-color-acento-contenido.color-acento-contenido.mb-5 
+          .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Títulos nominativos')
             p Se exige la inscripción de un tenedor, quien es el gozante de los derechos que este contempla, y la única persona que se reconocerá como tenedor legítimo.
-          .tarjeta.clr-paleYellow.p-4(titulo='Títulos a la orden')
+          .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Títulos a la orden')
             p Estos son expedidos a la orden de una persona específica o, en caso de transmitirse el documento, a favor de quien aparezca designado en este último registro.
-          .tarjeta.clr-paleYellow.p-4(titulo='Títulos al portador')
+          .tarjeta.clr-paleYellow.p-4.mb-4(titulo='Títulos al portador')
             p En este tipo de título, a diferencia de los anteriores, la persona o entidad que lo porte es quien goza de los derechos que representa; la simple exhibición del título legitimará al portador y su tradición se producirá por la sola entrega.
 
     .row.justify-content-center.mb-5
