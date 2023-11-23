@@ -331,11 +331,6 @@ export default {
     },
     {
       referencia:
-        'Sistema de Información sobre Comercio Exterior (s.f.). Comisión de la Comunidad Andina. Decisión 486: <em>Régimen Común sobre Propiedad Industrial.</em> SICE OAS.',
-      link: 'http://www.sice.oas.org/trade/junac/decisiones/dec486s6.asp  ',
-    },
-    {
-      referencia:
         'Luis Raúl Uribe Medina (2016). <em>Plan de cuentas para sistemas contables.</em> Docplayer.',
       link: 'https://docplayer.es/33172203-Luis-raul-uribe-medina.html',
     },
